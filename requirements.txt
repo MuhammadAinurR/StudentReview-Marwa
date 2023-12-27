@@ -1,6 +1,5 @@
 numpy==1.26.2
 Pillow==9.5.0
-Pillow==10.1.0
 protobuf==4.25.1
 streamlit==1.28.1
 streamlit_option_menu==0.3.6
